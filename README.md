@@ -1,3 +1,3 @@
 # firstrepositary
-This is my repository project
+This is my first repository project
 I am exicted to learn git and github
